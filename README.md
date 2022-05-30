@@ -4,13 +4,13 @@
 
 clone or download repository > unpack it
 
-go first to InstagramEngagement > InstagramEngagementBackend
+go first to backend
 
 open .env and add your instagram username and password
 
 run it with ```go run main.go```
 
-go back and enter to folder instagram-engagement-frontend
+go back and enter to folder frontend
 
 run first 
 ```npm install```
