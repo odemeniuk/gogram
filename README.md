@@ -1,6 +1,8 @@
 # gogram
 
-##How to start
+Simple instagram engagement calculator. Backend made in Golang and frontend in Vuejs.
+
+#How to start
 
 clone or download repository > unpack it
 
