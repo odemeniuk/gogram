@@ -2,6 +2,9 @@
 
 Simple instagram engagement calculator. Backend made in Golang and frontend in Vuejs.
 
+#Notice 
+Dont use it so much at once it can make your IP banned from Instagram.
+
 #How to start
 
 clone or download repository > unpack it
